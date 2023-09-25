@@ -16,6 +16,6 @@ I am a Postdoc Fellow in the Department of Electrical, Computer, and Energy Engi
 
 Recent news
 ------
-- \[Sept 23\] Our paper [Renewable-based charging in green ride-sharing](https://www.nature.com/articles/s41598-023-42042-z) showcases how power utility companies and ride-sharing platforms can interact to promote the electric vehicle charging from renewables, towards a more sustainable urban mobility model.
+- \[Sept 23\] Our paper [Renewable-based charging in green ride-sharing](https://www.nature.com/articles/s41598-023-42042-z) showcases how power utility companies and ride-sharing platforms can interact to promote renewable-based EV charging, towards a more sustainable urban mobility model.
 - \[May 23\] My [inteview](https://www.colorado.edu/engineering/2023/05/24/cu-boulder-postdoc-leads-research-decarbonization-transportation-sector-through-ev-ride) for the CU Boulder College of Engineering is a great summary of my first years spent at CU Boulder, as a Schmidt Science Postdoctoral Fellow.
 
