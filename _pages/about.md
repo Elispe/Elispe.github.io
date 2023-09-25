@@ -14,4 +14,7 @@ Short Bio
 ------
 I am a Postdoc Fellow in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado Boulder. As a Schmidt Science Fellow, I am pivoting from Physics to Electrical Engineering. Before joining UC Boulder, I received my PhD and M.Sc. in Physics from Uppsala University, Sweden, and I completed my B.Sc. in Physics at Turin University, Italy. I also developed software for multiphysics simulations in the Electromagnetics team at COMSOL, Inc.
 
+Recent news
+------
+- \[May 23\] My [inteview]([https://academicpages.github.io/markdown/](https://www.colorado.edu/engineering/2023/05/24/cu-boulder-postdoc-leads-research-decarbonization-transportation-sector-through-ev-ride)) for the CU Boulder College of Engineering is a great summary of my first years spent at CU Boulder, as a Schmidt Science Postdoctoral Fellow.
 
