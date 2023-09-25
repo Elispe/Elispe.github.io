@@ -16,5 +16,5 @@ I am a Postdoc Fellow in the Department of Electrical, Computer, and Energy Engi
 
 Recent news
 ------
-- \[May 23\] My [inteview]([https://academicpages.github.io/markdown/](https://www.colorado.edu/engineering/2023/05/24/cu-boulder-postdoc-leads-research-decarbonization-transportation-sector-through-ev-ride)) for the CU Boulder College of Engineering is a great summary of my first years spent at CU Boulder, as a Schmidt Science Postdoctoral Fellow.
+- \[May 23\] My [inteview](https://www.colorado.edu/engineering/2023/05/24/cu-boulder-postdoc-leads-research-decarbonization-transportation-sector-through-ev-ride) for the CU Boulder College of Engineering is a great summary of my first years spent at CU Boulder, as a Schmidt Science Postdoctoral Fellow.
 
