@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am postdoctoral fellow in Dall’Anese’s group, in the Electrical, Energy and Computer Engineering Department at the University of Colorado, Boulder. She received her PhD and master degree in physics from Uppsala University, Sweden and her bachelor degree from Turin University. As a Schmidt Science Fellow, Elisabetta has pivoted from physics to energy engineering to address renewable energy integration and vehicle-grid integration for future, sustainable urban mobility. Elisabetta  is committed to explore creative, data-driven smart grid solutions to meet the growing electricity demand, while minimizing the impact on the environment. 
+[comment]: <> (I develop optimization and control algorithms to allow high penetration of renewable energy without compromising the reliability of the power infrastructure.  vehicle-grid integration for future, sustainable urban mobility. Elisabetta  is committed to explore creative, data-driven smart grid solutions to meet the growing electricity demand, while minimizing the impact on the environment.) 
 
 Short Bio
 ------
