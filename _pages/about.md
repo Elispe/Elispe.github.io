@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Schmidt Science](https://schmidtsciencefellows.org/) Postdoctoral Fellow in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado Boulder. As a Schmidt Science Fellow, I am pivoting from Physics to Electrical Engineering. Before joining CU Boulder, I received my PhD and M.Sc. in Physics from Uppsala University, Sweden, and I completed my B.Sc. in Physics at Turin University, Italy. I also developed software for multiphysics simulations in the Electromagnetics team at COMSOL, Inc.
-[comment]: <> (I develop optimization and control algorithms to allow high penetration of renewable energy without compromising the reliability of the power infrastructure.  vehicle-grid integration for future, sustainable urban mobility. Elisabetta  is committed to explore creative, data-driven smart grid solutions to meet the growing electricity demand, while minimizing the impact on the environment.) 
+I am a [Schmidt Science](https://schmidtsciencefellows.org/) Postdoctoral Fellow in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado Boulder. Before joining CU Boulder, I received my PhD and M.Sc. in Physics from Uppsala University, Sweden, and I completed my B.Sc. in Physics at Turin University, Italy. I have a broad background in physics, in particular theoretical nuclear and hadron physics. I also developed software for multiphysics simulations in the Electromagnetics team at COMSOL, Inc. As a Schmidt Science Fellow, I am now focusing on more applied problems. 
+My current focus is designing optimization and control algorithms that can be implemented in networked systems such as transportation and power systems. 
 
+[comment]: <> (
 My work and research
 ------
-I enjoy multidisciplinary research.
+I enjoy multidisciplinary research. I am committed to explore creative, data-driven smart grid solutions to meet the growing electricity demand, while minimizing the impact on the environment.
+ high penetration of distributed energy resources without compromising the reliability of the power infrastructure.  vehicle-grid integration for future, sustainable urban mobility.)
 
 Short Bio
 ------
