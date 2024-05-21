@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Schmidt Science](https://schmidtsciencefellows.org/) Postdoctoral Fellow in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado Boulder. Before joining CU Boulder, I received my PhD and M.Sc. in Physics from Uppsala University, Sweden, and I completed my B.Sc. in Physics at Turin University, Italy. I also have work experience as software developer for multiphysics simulations in the Electromagnetics team at COMSOL, Inc. I have a broad background in physics, in particular theoretical nuclear and hadron physics. As a Schmidt Science Fellow, I am now focusing on more applied problems. My current focus is designing optimization and control algorithms that can be implemented in networked systems such as transportation and power systems. 
+I am a [Schmidt Science](https://schmidtsciencefellows.org/) Postdoctoral Fellow in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado Boulder. Before joining CU Boulder, I received my PhD and M.Sc. in Physics from Uppsala University, Sweden, and I completed my B.Sc. in Physics at Turin University, Italy. I also have work experience as software developer for multiphysics simulations in the Electromagnetics team at COMSOL, Inc. I have a broad background in physics, with specialization in theoretical hadron physics. 
+
+As a Schmidt Science Fellow, I am now focusing on more applied problems. My current focus is on designing optimization and control algorithms that can be implemented in networked systems such as transportation and energy systems. 
 
 Short Bio
 ------
