@@ -13,21 +13,14 @@ After my PhD, my research interest shifted towards larger energy systems - from 
 
 Current focus
 ------
-How can we meet the growing electricity demand, while minimizing the impact on the environment? 
+Electrification is critical for reducing emissions and to ensure a sustainable energy transition. So, how can we satisfy the growing electricity demand, while minimizing the impact on the environment? 
 My research combines tools from optimization, control theory, and learning to advance sustainability in practical applications, such as:
 - Urban mobility
-  - electrified and autonomous transportation
+  - Mobility on Demand systems and electrified transportation
   - smart charging
   - vehicle-grid integration
 - Power and energy systems
   - integration of distributed energy resources
   - high penetration of renewable energy sources
   
-
-
-
-
-
-
-
-My work has been supported by [Schmidt Science Fellows](https://schmidtsciencefellows.org/), in partnership with the Rhodes Trust.
+My work has been supported by [Schmidt Science Fellows](https://schmidtsciencefellows.org/), in partnership with the [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk/).
