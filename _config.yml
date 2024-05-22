@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elisabetta Perotti"
   avatar           : "profile_Perotti.jpg"
-  bio              : "Postdoctoral Fellow at CU Boulder, ECEE Department"
+  bio              : "Postdoctoral Fellow at CU Boulder, <u><a href="{{https://www.colorado.edu/ecee/}}">ECEE Department</a>.</u>"
   location         : "Boulder, CO"
   employer         : 
   pubmed           : 
