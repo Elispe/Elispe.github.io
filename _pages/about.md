@@ -18,7 +18,8 @@ Elisabetta Perotti is a Schmidt Science Postdoctoral Fellow in the Department of
 
 Recent news
 ------
+- \[Oct 24\] Second best paper award for our contribution [A Robust Incremental Volt/VAR Control for Distribution Networks](https://orbi.uliege.be/handle/2268/322798) at ISGT Europe 2024. 
 - \[May 24\] Our preprint [Incremental Volt/Var Control for Distribution Networks via Chance-Constrained Optimization](https://arxiv.org/pdf/2405.02511) proposes a decentralized,  incremental Volt/Var control strategy for voltage regulation in distribution networks. Cost savings can be achieved in a controlled, predictable way by tolerating a prescribed probability of voltage violations.
 - \[Sept 23\] Our paper [Renewable-based charging in green ride-sharing](https://www.nature.com/articles/s41598-023-42042-z) showcases how power utility companies and ride-sharing platforms can interact to promote renewable-based EV charging, towards a more sustainable urban mobility model.
-- \[May 23\] My [inteview](https://www.colorado.edu/engineering/2023/05/24/cu-boulder-postdoc-leads-research-decarbonization-transportation-sector-through-ev-ride) for the CU Boulder College of Engineering is a great summary of my first year spent at CU Boulder, as a Schmidt Science Postdoctoral Fellow.
+- \[May 23\] My [interview](https://www.colorado.edu/engineering/2023/05/24/cu-boulder-postdoc-leads-research-decarbonization-transportation-sector-through-ev-ride) for the CU Boulder College of Engineering is a great summary of my first year spent at CU Boulder, as a Schmidt Science Postdoctoral Fellow.
 
