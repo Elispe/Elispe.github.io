@@ -14,7 +14,9 @@ As a Schmidt Science Fellow, I am now focusing on more applied problems. My curr
 
 Short bio
 ------
-Elisabetta Perotti is a Schmidt Science Postdoctoral Fellow in the Department of Electrical, Computer, and Energy Engineering at the University of Colorado Boulder. Before joining CU, she obtained her PhD in Physics from Uppsala University. Elisabetta’s research interests span multiple fields, from theoretical hadron physics to applied mathematics. Her current work focuses on the development of optimization and control algorithms that can be deployed in networked systems such as transportation systems, power grids, and data centers. 
+Elisabetta Perotti is a Postdoctoral Researcher in the Division of Energy Technology, Department of Space, Earth and Environment at
+Chalmers University of Technology in Gothenburg, Sweden. From 2022 to 2024, she was a Schmidt Science Postdoctoral Fellow at the
+Department of Electrical, Computer and Energy Engineering (ECEE), University of Colorado Boulder. She received her PhD in Physics from Uppsala University, Sweden. Elisabetta’s research interests span multiple fields, from theoretical hadron physics to applied mathematics. Her current research focuses on control, optimization and modeling of electrical distribution systems and transportation networks.
 
 Recent news
 ------
