@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 My research develops scalable modeling, optimization, and control methods for future energy and transport systems under increasing electrification and renewable integration. I focus on the interaction between distribution grids, electric vehicles, distributed energy resources, and demand-side flexibility.
 
 A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models. This requires computational methods that remain physically meaningful while scaling to regional or national analyses.
