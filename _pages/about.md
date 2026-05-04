@@ -10,7 +10,7 @@ redirect_from:
 
 I am a postdoctoral researcher in the Division of Energy Technology at [Chalmers University of Technology](https://www.chalmers.se/en/). My research develops scalable modeling, optimization, and control methods for future energy and transport systems under increasing electrification and renewable integration.
 
-I focus on distribution networks, electric vehicle charging, distributed energy resources, and demand-side flexibility. A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models, enabling better planning and operation of decarbonized infrastructure.
+I focus on distribution networks, distributed energy resources, and demand-side flexibility. A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models, enabling better planning and operation of decarbonized infrastructure.
 
 My current research is centered around large-scale synthetic network modeling to study how electrification affects local grids and how flexible resources such as EVs, batteries, photovoltaics, heat pumps, and pricing mechanisms can support system operation and reduce grid reinforcement.
 

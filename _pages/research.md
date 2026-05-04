@@ -5,7 +5,45 @@ permalink: /research/
 author_profile: true
 ---
 
-Background
+# Research
+
+My research develops scalable modeling, optimization, and control methods for future energy and transport systems under increasing electrification and renewable integration. I focus on the interaction between distribution grids, electric vehicles, distributed energy resources, and demand-side flexibility.
+
+A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models. This requires computational methods that remain physically meaningful while scaling to regional or national analyses.
+
+## Research vision
+
+Electrification is transforming energy and transport systems. Electric vehicles, rooftop photovoltaics, batteries, heat pumps, and flexible demand are increasingly connected at the distribution level, where grid constraints are often local, data availability is limited, and planning tools remain underdeveloped.
+
+My long-term vision is to develop integrated modeling frameworks that connect local infrastructure constraints with system-level planning. These tools can help identify where electrification creates grid challenges, evaluate flexibility strategies, and support cost-effective decarbonization.
+
+## Scalable modeling of distribution grids
+
+Distribution networks are becoming a critical bottleneck in the energy transition, but detailed grid data is often unavailable due to confidentiality and security constraints. My work develops synthetic distribution-grid models using geospatial data, population statistics, building information, demand profiles, and distributed energy resources.
+
+These models enable large-scale studies of electrification scenarios, including electric-vehicle charging, rooftop solar generation, batteries, and heat pumps.
+
+## Flexibility in electrified energy systems
+
+I study how flexible resources can support grid operation and reduce the need for traditional infrastructure reinforcement. This includes electric vehicles, distributed photovoltaics, battery storage, heat pumps, and demand response.
+
+I am particularly interested in how pricing mechanisms, network tariffs, and user behavior can influence demand patterns and improve system performance.
+
+## Transport-energy system integration
+
+Transport electrification creates new interactions between mobility systems and electricity infrastructure. My research investigates how electric-vehicle charging, mobility-on-demand services, and shared fleets can be coordinated with power-system constraints and renewable generation.
+
+This includes optimization-based charging, renewable-based ride-sharing, and future mobility systems that integrate routing, charging, and grid-aware decision-making.
+
+## Optimization and control for distributed systems
+
+My work uses optimization, control theory, and power-system simulation to design methods for operating distributed energy systems. Recent examples include Volt/Var control for distribution networks with high photovoltaic penetration and coordinated EV charging strategies that align mobility demand with renewable electricity supply.
+
+## Background
+
+My background is in theoretical physics, where I developed expertise in mathematical modeling and computational methods. I now apply this foundation to energy and transport systems, with the goal of developing tools for complex infrastructure systems undergoing rapid decarbonization.
+
+<!--Background
 ------
 I am a physicist by training, and most of my past research work belongs to the field of particle physics. I investigated the electromagnetic properties of a certain type of hadrons, known as hyperons, to improve our knowledge of the fundamental structure of baryonic matter and to address the open question of the matter-antimatter imbalance observed in our Universe.
 
@@ -23,4 +61,4 @@ My research combines tools from optimization, control theory, and learning to ad
   - integration of distributed energy resources
   - high penetration of renewable energy sources
   
-My work has been supported by [Schmidt Science Fellows](https://schmidtsciencefellows.org/), in partnership with the [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk/).
+My work has been supported by [Schmidt Science Fellows](https://schmidtsciencefellows.org/), in partnership with the [Rhodes Trust](https://www.rhodeshouse.ox.ac.uk/).-->
