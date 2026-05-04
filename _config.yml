@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Elisabetta Perotti"
 title_separator          : "-"
-name                     : &name "Elisabettta Perotti"
+name                     : &name "Elisabetta Perotti"
 description              : &description "personal description"
 url                      : https://Elispe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elisabetta Perotti"
   avatar           : "profile_Perotti.jpg"
-  bio              : "Postdoc at Chalmers | Energy Technology Division"
+  bio              : "Postdoctoral Researcher | Energy & Transport Systems"
   location         : "Gothenburg, Sweden"
   employer         :  
   pubmed           : 
