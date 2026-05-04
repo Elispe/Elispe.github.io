@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Schmidt Science](https://schmidtsciencefellows.org/) Postdoctoral Fellow in the [Department of Electrical, Computer, and Energy Engineering](https://www.colorado.edu/ecee/) at the University of Colorado Boulder. Before joining CU Boulder, I received my PhD and M.Sc. in Physics from Uppsala University, Sweden, and I completed my B.Sc. in Physics at Turin University, Italy. I also have work experience as software developer for multiphysics simulations in the Electromagnetics team at COMSOL, Inc. I have a broad background in physics, with specialization in theoretical hadron physics. 
+I am a postdoctoral researcher in the Division of Energy Technology at [Chalmers University of Technology](https://www.chalmers.se/en/). My research develops scalable modeling, optimization, and control methods for future energy and transport systems under increasing electrification and renewable integration.
 
-As a Schmidt Science Fellow, I am now focusing on more applied problems. My current focus is on designing optimization and control algorithms that can be implemented in networked systems such as transportation and energy systems. 
+I focus on distribution networks, electric vehicle charging, distributed energy resources, and demand-side flexibility. A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models, enabling better planning and operation of decarbonized infrastructure.
+
+My current research is centered around large-scale synthetic network modeling to study how electrification affects local grids and how flexible resources such as EVs, batteries, photovoltaics, heat pumps, and pricing mechanisms can support system operation and reduce grid reinforcement.
+
+Before joining Chalmers, I was a [Schmidt Science](https://schmidtsciencefellows.org/) Fellow at the University of Colorado Boulder. I received my PhD and MSc in Physics from Uppsala University and my BSc in Physics from the University of Turin. My transition from theoretical physics to energy and mobility systems reflects my broader interest in applying mathematical and computational methods to complex societal challenges. 
 
 Short bio
 ------
-Elisabetta Perotti is a Postdoctoral Researcher in the Division of Energy Technology, Department of Space, Earth and Environment at
-Chalmers University of Technology in Gothenburg, Sweden. From 2022 to 2024, she was a Schmidt Science Postdoctoral Fellow at the
-Department of Electrical, Computer and Energy Engineering (ECEE), University of Colorado Boulder. Before joining CU, she received her PhD in Physics from Uppsala University, Sweden. Elisabetta’s research interests span multiple fields, from theoretical hadron physics to applied mathematics. Her current research focuses on control, optimization and modeling of electrical distribution systems and transportation networks.
+Elisabetta Perotti is a postdoctoral researcher in the Division of Energy Technology at Chalmers University of Technology. Her research develops scalable computational methods for modeling, optimization, and control of energy and transport systems. She focuses on distribution grids, distributed energy resources, and demand-side flexibility, with the goal of bridging detailed grid physics and large-scale system planning.
+
+Her recent work includes optimization frameworks for renewable-based EV charging, Volt/Var control for distribution networks with high photovoltaic penetration, and synthetic modeling of low-voltage distribution grids. She is particularly interested in how user behavior, pricing mechanisms, and flexible demand can support reliable and cost-effective decarbonized infrastructure.
 
 Recent news
 ------
