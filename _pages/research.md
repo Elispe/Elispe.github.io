@@ -9,7 +9,7 @@ My research develops scalable modeling, optimization, and control methods for fu
 
 A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models. This requires computational methods that remain physically meaningful while scaling to regional or national analyses.
 
-## Research vision
+## Vision
 
 Electrification is transforming energy and transport systems. Electric vehicles, rooftop photovoltaics, batteries, heat pumps, and flexible demand are increasingly connected at the distribution level, where grid constraints are often local, data availability is limited, and planning tools remain underdeveloped.
 
@@ -40,6 +40,10 @@ My work uses optimization, control theory, and power-system simulation to design
 ## Background
 
 My background is in theoretical physics, where I developed expertise in mathematical modeling and computational methods. I now apply this foundation to energy and transport systems, with the goal of developing tools for complex infrastructure systems undergoing rapid decarbonization.
+
+I am a physicist by training, and most of my past research work belongs to the field of particle physics. I investigated the electromagnetic properties of a certain type of hadrons, known as hyperons, to improve our knowledge of the fundamental structure of baryonic matter and to address the open question of the matter-antimatter imbalance observed in our Universe.
+
+After my PhD, my research interest shifted towards larger energy systems - from hadrons to our planet - and I  decided to pursue a pivot in my primary research direction. I enjoy multidisciplinary research, and my goal is to integrate disciplines like physics and math, in which I have a strong background, with computer science, data science and engineering, to tackle pressing global challenges with real-world applications. 
 
 <!--Background
 ------
