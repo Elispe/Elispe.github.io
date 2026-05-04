@@ -21,6 +21,12 @@ Distribution networks are becoming a critical bottleneck in the energy transitio
 
 These models enable large-scale studies of electrification scenarios, including electric-vehicle charging, rooftop solar generation, batteries, and heat pumps.
 
+<p align="center">
+  <img src="/images/method_with_inputs.png" alt="Schematic of the synthetic distribution-grid model" width="700">
+</p>
+
+<p align="center"><em>Figure: Schematic illustration of the synthetic low-voltage distribution-grid model used to study electrification scenarios.</em></p>
+
 ## Flexibility in electrified energy systems
 
 I study how flexible resources can support grid operation and reduce the need for traditional infrastructure reinforcement. This includes electric vehicles, distributed photovoltaics, battery storage, heat pumps, and demand response.
