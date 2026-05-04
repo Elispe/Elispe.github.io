@@ -12,15 +12,15 @@ I am a postdoctoral researcher in the Division of Energy Technology at [Chalmers
 
 I focus on distribution networks, distributed energy resources, and demand-side flexibility. A central goal of my work is to bridge detailed distribution-grid physics with large-scale energy and transport system models, enabling better planning and operation of decarbonized infrastructure.
 
-My current research is centered around large-scale synthetic network modeling to study how electrification affects local grids and how flexible resources such as EVs, batteries, photovoltaics, heat pumps, and pricing mechanisms can support system operation and reduce grid reinforcement.
+My current research centers on large-scale synthetic network modeling to study how electrification affects local grids and how flexible resources such as EVs, batteries, photovoltaics, heat pumps, and pricing mechanisms can support system operation and reduce grid reinforcement.
 
 Before joining Chalmers, I was a [Schmidt Science](https://schmidtsciencefellows.org/) Fellow at the University of Colorado Boulder. I received my PhD and MSc in Physics from Uppsala University and my BSc in Physics from the University of Turin. My transition from theoretical physics to energy and mobility systems reflects my broader interest in applying mathematical and computational methods to complex societal challenges. 
 
 Short bio
 ------
-Elisabetta Perotti is a postdoctoral researcher in the Division of Energy Technology at Chalmers University of Technology. Her research develops scalable computational methods for modeling, optimization, and control of energy and transport systems. She focuses on distribution grids, distributed energy resources, and demand-side flexibility, with the goal of bridging detailed grid physics and large-scale system planning.
+Elisabetta Perotti is a postdoctoral researcher in the Division of Energy Technology at Chalmers University of Technology. She develops computational methods to study how electrification, distributed energy resources, and flexible demand affect future energy and transport systems.
 
-Her recent work includes optimization frameworks for renewable-based EV charging, Volt/Var control for distribution networks with high photovoltaic penetration, and synthetic modeling of low-voltage distribution grids. She is particularly interested in how user behavior, pricing mechanisms, and flexible demand can support reliable and cost-effective decarbonized infrastructure.
+Her recent work includes renewable-based EV charging, Volt/Var control for distribution networks with high photovoltaic penetration, and synthetic modeling of low-voltage distribution grids. She is particularly interested in how user behavior, pricing mechanisms, and flexible demand can support reliable and cost-effective decarbonized infrastructure.
 
 Recent news
 ------

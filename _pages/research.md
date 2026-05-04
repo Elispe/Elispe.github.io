@@ -39,11 +39,9 @@ My work uses optimization, control theory, and power-system simulation to design
 
 ## Background
 
-My background is in theoretical physics, where I developed expertise in mathematical modeling and computational methods. I now apply this foundation to energy and transport systems, with the goal of developing tools for complex infrastructure systems undergoing rapid decarbonization.
+My background is in theoretical physics, where I developed expertise in mathematical modeling and computational methods. During my PhD, I studied the electromagnetic properties of hyperons to investigate the structure of baryonic matter.
 
-I am a physicist by training, and most of my past research work belongs to the field of particle physics. I investigated the electromagnetic properties of a certain type of hadrons, known as hyperons, to improve our knowledge of the fundamental structure of baryonic matter and to address the open question of the matter-antimatter imbalance observed in our Universe.
-
-After my PhD, my research interest shifted towards larger energy systems - from hadrons to our planet - and I  decided to pursue a pivot in my primary research direction. I enjoy multidisciplinary research, and my goal is to integrate disciplines like physics and math, in which I have a strong background, with computer science, data science and engineering, to tackle pressing global challenges with real-world applications. 
+I now apply this foundation to energy and transport systems, with the goal of developing computational tools for complex infrastructure systems undergoing rapid decarbonization.
 
 ## Prospective students and collaborators
 
